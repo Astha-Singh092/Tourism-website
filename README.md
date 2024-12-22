@@ -1,6 +1,6 @@
 # Tourism-Website
 
-Website Link: https://varun-kolanu.github.io/Tourism-Website/tourism.html
+
 
 Tech Stack Used: 
 Html, Vanilla Css, Vanilla Js
